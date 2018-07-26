@@ -104,10 +104,12 @@ print( 7 // 4 ) # without decimal - integer division
 # Average test score, take in 3 test scores, and add them then get average
 
 
+
+
 # Print the user's letter grade in a class, given their percentage
-# a lot of if statements and stuff
-# 85 'B' 
+# a lot of if statements and stuff 
 # 90%+ = A, 80 <= B < 90
+
 
 score = int(input(enter your test score here))
 if score > 89
@@ -122,20 +124,20 @@ else
   print('F')
 
 
-
 # Quadratic formula 
 # a, b, c
 ((b**2) - (4*a*c))**(1/2)  / (2*a)
 
+x= int(input(enter value for a: ))
+y= int(input(enter value for b: ))
+z= int(input(enter value for c: ))
+
+
 x1 = -b + sqrt(b^2 - 4ac) / 2a
+ print(x1)
 x2 = -b - sqrt(b^2 - 4ac) / 2a
+  print(x2)
   
 Atom text editor, file ends with filename.py
 OR
 https://glot.io/snippets/f37vy1t1a6
-
-  
-  
-  
-  
-  
